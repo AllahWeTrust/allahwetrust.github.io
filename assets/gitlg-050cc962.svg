@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 250 250"
+   version="1.1"
+   id="svg4168"
+   sodipodi:docname="gitlg.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4172" />
+  <sodipodi:namedview
+     id="namedview4170"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.4665165"
+     inkscape:cx="0"
+     inkscape:cy="32.153204"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4168" />
+  <path
+     d="M 242.87415,114.12802 135.9135,7.1239028 a 15.771166,15.777574 0 0 0 -22.30931,0 L 91.402065,29.33506 119.57579,57.520234 c 6.55346,-2.297699 14.05624,-0.727605 19.27757,4.495848 a 18.75697,18.764591 0 0 1 4.44808,19.400282 l 27.1555,27.166536 c 6.56877,-2.26707 14.14811,-0.80422 19.39241,4.45755 a 18.776873,18.784504 0 1 1 -26.55834,26.56146 c -5.51225,-5.51448 -6.875,-13.63304 -4.08825,-20.42659 L 133.87702,93.83929 v 66.67174 a 19.139765,19.147542 0 0 1 4.97634,3.55379 18.77417,18.781799 0 1 1 -26.55068,26.56147 18.75697,18.764591 0 0 1 0,-26.56147 c 1.81445,-1.80753 3.82796,-3.17849 6.14769,-4.09758 V 92.675121 c -2.23552,-0.91908 -4.33324,-2.274723 -6.14769,-4.097576 A 18.75697,18.764591 0 0 1 108.26036,68.043724 L 80.469425,40.256812 7.1258542,113.5536 a 15.771166,15.777574 0 0 0 0,22.32603 L 114.09416,242.8761 a 15.771166,15.777574 0 0 0 22.30931,0 L 242.87415,136.53065 a 15.771166,15.777574 0 0 0 0,-22.32603"
+     fill="#f03c2e"
+     id="path4166"
+     style="stroke-width:7.65747" />
+</svg>
